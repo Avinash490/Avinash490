@@ -9,7 +9,7 @@
 
 
 <ul>
-    <li>- 🔭 I’m currently working on <strong>Machine Learning</strong>
+    <li>- 🔭 I’m currently working on <strong>C language</strong>
     </li>
     <br>
     <li>- 🌱 I’m currently learning <strong>Java</strong>
